@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_166"
+        android:background="@drawable/rectangle_home"
+        tools:targetApi="lollipop">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivOption"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_120"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="@dimen/dp_10"
+            android:layout_marginBottom="-8dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_picture" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvOptionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_60"
+            android:layout_below="@id/ivOption"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/rectangle_blue_shadow"
+            android:fontFamily="@font/bitter_regular"
+            android:gravity="center"
+            android:includeFontPadding="false"
+            android:text="Name"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+</layout>

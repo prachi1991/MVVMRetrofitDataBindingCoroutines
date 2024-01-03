@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#0060AA</color>
+    <color name="light_grey">#AAAAAA</color>
+
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+
+
+</resources>

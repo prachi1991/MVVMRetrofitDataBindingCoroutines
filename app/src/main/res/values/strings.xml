@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HrmApp</string>
+    <string name="announcement">Announcement</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="calender">Calendar</string>
+    <string name="news_feed">News Feeds</string>
+    <string name="training">Training</string>
+    <string name="leave_approval">Leave Approval</string>
+    <string name="attendance_report">Attendance Report</string>
+    <string name="holiday_cal">Holiday Calender</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="version_code">Version 1.0.0</string>
+
+</resources>
